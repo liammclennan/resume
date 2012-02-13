@@ -28,6 +28,10 @@ I love to create and the web is currently my medium of choice. I like neat solut
 Interesting projects
 ----------------------------
 
+### 2012: [This resume](https://github.com/liammclennan/resume)
+
+As a web developer I think my resume should be online. This resume is built with pandoc, markdown and a simple bash script. I plan to add the ability to export to other formats using pandoc and node.js on the server.
+
 ### 2011: Waste water tracking application for the Queensland Department of Environment 
 
 I held a leadership position in a small team that developed a web-based system for polluters to report their water analysis results to the Department of Environment. I worked closely with the customers to convert user stories into scenarios, which then drove the development as executable specifications. The application was built with Microsoft's Asp.Net mvc and an Oracle database.  
