@@ -25,6 +25,11 @@ TL;DR
 
 I love to create and the web is currently my medium of choice. I like neat solutions to difficult problems and I believe in using the right tool for the job.
 
+Background
+-----------------
+
+I have been a professional software developer since 2001. In that time I have: been an employee of a web development company, a contractor on large government projects, a consultant (for [Avanade](http://www.avanade.com/en-au/Pages/default.aspx)) and built a number of products for Australian startups. 
+
 Interesting projects
 ----------------------------
 
