@@ -1,0 +1,45 @@
+@font-face {
+    font-family: YanoneKaffeesatz;
+    src: url("fonts/YanoneKaffeesatz-Light.otf") format("opentype");
+}
+
+body { 
+    font-family: helvetica, verdana;
+    font-size: 14px;
+    padding: 0 20px 20px 20px;
+}
+
+#content {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1,h2,h3,h4 {
+    font-family: YanoneKaffeesatz;
+}
+
+h1 {
+    font-size: 51px;
+}
+
+h2 {
+    font-size: 41px;
+}
+
+h3 { 
+    font-size: 31px;
+}
+
+#contact {
+    float: right;
+    text-align: right;
+    margin-left: 20px;
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+#contact h3 {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+

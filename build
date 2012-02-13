@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm output/resume.html
+cat src/header.html >> output/resume.html
+pandoc src/resume.md >> output/resume.html
+cat src/footer.html >> output/resume.html
+

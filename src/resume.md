@@ -1,27 +1,22 @@
-Resume of Liam McLennan
-================
 
 <div id="contact">
 
-Contact
------------
+### Contact
 
-### Address
-
-14 Agnes St  
-Wynnum, QLD, 4178  
-
-### Phone 
-
-+61 404 498 943
-
-### Online
-
+[liam.mclennan@gmail.com](mailto:liam.mclennan@gmail.com)  
 [github](http://github.com/liammclennan)  
 [twitter](http://twitter.com/liammclennan)  
 [blog](http://hackingon.net)
 
+14 Agnes St  
+Wynnum, QLD, 4178  
+
++61 404 498 943
+
 </div>
+
+Resume of Liam McLennan
+================
 
 <div id="project-history">
 
