@@ -57,7 +57,7 @@ JavaScript is a misunderstood programming language. I built the JavaScript Koans
 
 ### 2010-2011: [QikPress](http://www.geoqik.com.au/publish.html)
 
-QikPress is an online publishing tool specially designed for documents with spatial content. It was developed for organisations wishing to publish environmental impact statements and other similar documents. It supports public commenting, intelligent searching and maintainable inter and intra document linking. 
+QikPress is an online publishing tool specially designed for documents with spatial content. It was developed for organisations wishing to publish environmental impact statements and other similar documents. It supports public commenting, intelligent searching and maintainable inter and intra document linking. The key technologies used are Asp.Net Mvc, Sql Server and jQuery.
 
 ### 2010: Shortest Route
 
@@ -78,15 +78,17 @@ Areas of interest
 
 As time goes by I see web applications increasingly moving towards the client, with the server functioning as a data provider.
 
- * RoR
+ * Asp.Net Mvc
+ * Sinatra
  * Backbone.js
  * node.js
  * Html5
  * Phonegap
+ * jQuery
 
 ### Programming languages
 
-Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Linguistic_relativity) says, "the structure of a language affects the ways in which its speakers are able to conceptualize their world". I believe that this also applies to programming languages. I am interested in languages that help me to focus on the problem and ignore the syntax.
+Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Linguistic_relativity) says, "the structure of a language affects the ways in which its speakers are able to conceptualize their world". This also applies to programming languages. I am interested in languages that help me to focus on the problem and ignore the syntax.
 
  * JavaScript / CoffeeScript
  * Ruby
