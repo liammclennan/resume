@@ -23,12 +23,14 @@ Resume of Liam McLennan
 TL;DR
 ---------
 
-I love to create and the web is currently my medium of choice. I like neat solutions to difficult problems and I believe in using the right tool for the job.
+I love to create things. The web and mobile are currently my preferred mediums. I like neat solutions to difficult problems and I believe in using the right tool for the job.
 
 Background
 -----------------
 
 I have been a professional software developer since 2001. In that time I have: been an employee of a web development company, a contractor on large government projects, a consultant (for [Avanade](http://www.avanade.com/en-au/Pages/default.aspx)) and built a number of products for Australian startups. 
+
+I believe that focusing on quality is the way to maximise productivity, and if it needs to work then it needs to be tested.
 
 Interesting projects
 ----------------------------
@@ -36,6 +38,10 @@ Interesting projects
 ### 2012: [This resume](https://github.com/liammclennan/resume)
 
 As a web developer I think my resume should be online. This resume is built with pandoc, markdown and a simple bash script. I plan to add the ability to export to other formats using pandoc and node.js on the server.
+
+### 2012: VPS project for Department of Education and Training
+
+I was the lead front-end developer on this large (~40 person) project. As lead front-end developer my responsibility was to ensure consistency and quality in the application's user interface layer. This included enhancing Microsoft's Asp.Net Mvc framework to suit the project's needs and the design and development of reusable JavaScript components.
 
 ### 2011: Waste water tracking application for the Queensland Department of Environment 
 
@@ -94,6 +100,11 @@ Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Ling
   * mongodb
   * couchdb
   * riak 
+
+  ### Mobile
+
+ * Cross-platform mobile development (using tools like phonegap)
+ * Designing websites for mobile 
 
 </div>
 
