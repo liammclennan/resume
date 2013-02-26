@@ -23,21 +23,35 @@ Resume of Liam McLennan
 TL;DR
 ---------
 
-I love to create things. The web and mobile are currently my preferred mediums. I like neat solutions to difficult problems and I believe in using the right tool for the job.
+I love to create things for the web and mobile. I like neat solutions to difficult problems and I believe in using the right tool for the job.
 
 Background
 -----------------
 
-I have been a professional software developer since 2001. In that time I have: been an employee of a web development company, a contractor on large government projects, a consultant (for [Avanade](http://www.avanade.com/en-au/Pages/default.aspx)) and built a number of products for Australian startups. 
+I have been a professional software developer since 2001.  
 
 I believe that focusing on quality is the way to maximise productivity, and if it needs to work then it needs to be tested.
 
 Interesting projects
 ----------------------------
 
+### 2013: Collection House
+
+[Collection House](http://www.collectionhouse.com.au/) ([CLH](http://www.asx.com.au/asx/research/companyInfo.do?by=asxCode&allinfo=&asxCode=clh)) is one of Australia's largest debt collection agencies. Consulting for [Readify](http://readify.net/) I led a small team developing a number of internal line-of-business applications. This project was a great experience introducing a structured development process into a traditionally ad-hoc enterprise environment. 
+
+### 2012: [Eagleboys.com.au](https://orders.eagleboys.com.au/fulfillment/pickup)
+
+Consulting for [Readify](http://readify.net/) I designed and implemented a new web site for Australia's third largest pizza company. To facilitate advanced UI features I was asked to implement a rich client-side interface. The UI is built with backbone.js and handlebars. 
+
+[Read more](http://readify.net/our-experience/eagle-boys-group)
+
+### 2012: [Pluralsight's Backbone Fundamentals course](http://pluralsight.com/training/Courses/TableOfContents/backbone-fundamentals)
+
+As I was working on the new Eagleboys site I prepared a comprehensive Backbone.js screencast course for Pluralsight.
+
 ### 2012: [This resume](https://github.com/liammclennan/resume)
 
-As a web developer I think my resume should be online. This resume is built with pandoc, markdown and a simple bash script. I plan to add the ability to export to other formats using pandoc and node.js on the server.
+As a web developer I think my resume should be online. This resume is built with pandoc, markdown and a simple bash script. 
 
 ### 2012: VPS project for Department of Education and Training
 
@@ -93,7 +107,6 @@ Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Ling
  * JavaScript / CoffeeScript
  * Ruby
  * C#
- * Python and lisp (TODO!)
  
 ### NoSql
  
@@ -125,7 +138,8 @@ Majors: Data Communications and Software Engineering
 
 Activities and memberships
 ---------------------------------------
-
+* December 2012 DDD Brisbane 
+    * Why Functional Programming Matters
 * January 2012 DDD Brisbane
     * Cross-platform mobile development (Phonegap)
 * April 2010 Presented two sessions at Seattle Code Camp
