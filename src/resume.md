@@ -6,7 +6,7 @@
 [liam.mclennan@gmail.com](mailto:liam.mclennan@gmail.com)  
 [github](http://github.com/liammclennan)  
 [twitter](http://twitter.com/liammclennan)  
-[blog](http://hackingon.net)
+[blog](http://withouttheloop.com)
 
 14 Agnes St  
 Wynnum, QLD, 4178  
