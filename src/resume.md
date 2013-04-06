@@ -21,12 +21,12 @@ Resume of Liam McLennan
 <div id="project-history">
 
 TL;DR
----------
+-----
 
-I love to create things for the web and mobile. I like neat solutions to difficult problems and I believe in using the right tool for the job.
+I love to create things for the web and mobile. I like neat solutions to difficult problems.
 
 Background
------------------
+----------
 
 I have been a professional software developer since 2001.  
 
@@ -34,6 +34,10 @@ I believe that focusing on quality is the way to maximise productivity, and if i
 
 Interesting projects
 ----------------------------
+
+### 2013: [Listagram](https://play.google.com/store/apps/details?id=net.onashirt.listagram&feature=search_result#?t=W251bGwsMSwxLDEsIm5ldC5vbmFzaGlydC5saXN0YWdyYW0iXQ..)
+
+Listagram is my experiment creating a multi-platform html-based mobile application, packaged with phonegap. It solves the famous 'wife wants to send me a grocery list' problem. The [source is on bitbucket](https://bitbucket.org/liammclennan/list-a-gram).
 
 ### 2013: Collection House
 
@@ -107,6 +111,7 @@ Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Ling
  * JavaScript / CoffeeScript
  * Ruby
  * C#
+ * Functional programming
  
 ### NoSql
  
@@ -114,7 +119,7 @@ Wikipedia's article on [Linguistic relativity](http://en.wikipedia.org/wiki/Ling
 
   * mongodb
   * couchdb
-  * riak 
+  * riak
 
 ### Mobile
 
@@ -136,7 +141,7 @@ Majors: Data Communications and Software Engineering
 
 <div id="activities">
 
-Activities and memberships
+Presentations
 ---------------------------------------
 * December 2012 DDD Brisbane 
     * Why Functional Programming Matters
